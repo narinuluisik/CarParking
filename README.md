@@ -13,11 +13,11 @@ Bu proje, Unity oyun motoru kullanılarak geliştirilmiş bir **Hyper-Casual** o
 
 ## 📷 Ekran Görüntüleri
 
-| Başlangıç Ekranı | Oyun İçi 1 | Oyun İçi 2 |
+|Oyun İçi 1 | Oyun İçi 2 | Oyun İçi 3 |
 |------------------|------------|-------------|
 | ![ss1](https://github.com/user-attachments/assets/64b549f2-d9c1-4233-bb21-a3e336098c6a) | ![ss2](https://github.com/user-attachments/assets/fd397db0-1f86-4785-8b7b-ce82b68a053d) | ![ss3](https://github.com/user-attachments/assets/032e9ed8-c92a-4120-a93f-4bdd1076368e) |
 
-| UI & Skor | Zorluk Artışı | Oyun Bitişi |
+| Oyun İçi 4 | Oyun İçi 5 | Oyun İçi 6 |
 |-------------|------------------|----------------|
 | ![ss4](https://github.com/user-attachments/assets/430c5c98-dfc1-4afa-a7de-425ccafcb1d8) | ![ss5](https://github.com/user-attachments/assets/3412a101-3d59-4a7f-bb45-b913d7fc539f) | ![ss6](https://github.com/user-attachments/assets/0af10c71-c89b-4d4f-bf12-3591460995f7) |
 
